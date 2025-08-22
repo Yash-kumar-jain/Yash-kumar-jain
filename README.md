@@ -1,5 +1,16 @@
 # 💫 About Me:
-I’m currently working on building and improving backend systems with Node.js while also exploring AI integrations in web applications. Some of my projects include Secure Share, Insta Meer, Play Chess, and Record Book. Alongside this, I’m continuously learning new technologies to strengthen scalability and performance.<br><br>I’m looking to collaborate on projects where strong backend and development skills are needed, especially in areas like web applications, optimization, and AI-driven features. I enjoy teaming up with people who are passionate about creating impactful systems.<br><br>I’m looking for help with scaling and optimization in development. I believe working together in this area brings new perspectives and smarter solutions for building efficient and reliable systems.<br><br>I’m currently learning advanced development techniques and exploring technologies that make applications faster and more reliable, while also experimenting with ways to bring AI into real-world web apps for better user experiences.<br><br>Ask me about my experience as a backend developer with Node.js and how I’ve built applications that focus on security, performance, and scalability. I also enjoy discussing my approach to integrating AI into projects and the lessons learned from building apps like Secure Share and Record Book.<br><br>Fun fact: Many of my projects, like Secure Share and Record Book, started as small learning experiments but grew into full-fledged applications.
+I’m currently working on improving backend systems with Node.js and exploring AI integrations in web apps. Some of my projects include Secure Share, Insta Meer, Play Chess, and Record Book. I’m also learning new technologies to strengthen scalability and performance.<br><br>
+
+I’m open to collaborating on projects that need strong development skills, especially in web apps, optimization, and AI-driven features. I enjoy working with people who are passionate about building impactful systems.<br><br>
+
+I’m looking for help with scaling and optimization in development, as collaboration brings fresh perspectives and smarter solutions.<br><br>
+
+I’m currently learning advanced techniques to make applications faster and more reliable, while experimenting with AI to create smarter user experiences.<br><br>
+
+Ask me about backend development with Node.js, building secure and scalable apps, and integrating AI into real-world projects. I’ve applied these skills in projects like Secure Share and Record Book.<br><br>
+
+**Fun fact:** Many of my projects, like Secure Share and Record Book, started as small experiments but grew into full-fledged applications.
+
 
 
 ## 🌐 Socials:
